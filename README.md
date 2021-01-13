@@ -21,3 +21,6 @@ Steps taken for the Logic.js file
 IMAGE of the SCHEDULER
 <p>
 <img src="Scheduler1.jpg" height="200px" weight="200px">
+
+https://github.com/JosephRhines/WorkScheduler2021
+https://josephrhines.github.io/WorkScheduler2021/
